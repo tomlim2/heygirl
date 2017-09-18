@@ -1,4 +1,4 @@
-function Gosling(ratio, imageurl){
+javascript: function Gosling(ratio, imageurl){
   this.ratio = ratio;
   this.imageurl = imageurl;
 }
