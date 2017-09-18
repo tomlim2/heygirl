@@ -39,8 +39,8 @@ new Gosling("vertical", "https://tomlim2.github.io/heygirl/sunset/vertical1.jpg"
 new Gosling("vertical", "https://tomlim2.github.io/heygirl/sunset/vertical2.jpg"),
 
 new Gosling("square", "https://tomlim2.github.io/heygirl/sunset/sqaure1.jpg"),
-new Gosling("square", "https://tomlim2.github.io/heygirl/sunset/sqaure2.jpg"),
-
+new Gosling("square", "https://tomlim2.github.io/heygirl/sunset/sqaure2.jpg")
+]
 
 function imageRatio(image) {
   var proportion = image.height/image.width;
